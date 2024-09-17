@@ -8,11 +8,12 @@ Run as administrator
 irm "https://raw.githubusercontent.com/ashwindeivak/Windows-Image-Splitter/refs/heads/main/win-iso-splitter.ps1" | iex
 ```
 
-Auto-install [latest Windows ADK and the PE add-on](https://learn.microsoft.com/en-us/windows-hardware/get-started/adk-install) in one-click
+This tool can auto-install [latest Windows ADK and the PE add-on](https://learn.microsoft.com/en-us/windows-hardware/get-started/adk-install) in one-click
 
 
 ### Why❓
-I recently tried to install a Windows on a Snapdragon X Elite computer, turn out the usb HAD to be formatted in FAT32
+I recently tried to install a Windows on a Snapdragon X Elite computer, turn out the usb HAD to be formatted in FAT32.
+
 With this tool, you just have to give your iso, it will do all the steps automatically without any installation. Everything is open source.
 
 ### Upcoming Changes :
